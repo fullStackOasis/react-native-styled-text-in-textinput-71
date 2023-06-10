@@ -37,5 +37,5 @@ This is a bug. The expected behavior is that the style of the content should not
 
 
 
-https://github.com/fullStackOasis/react-native-styled-text-in-textinput/assets/59945095/46c999bc-b97f-4972-9d51-6c9f4dc31bc3
+https://github.com/fullStackOasis/react-native-styled-text-in-textinput-71/assets/59945095/eb6c4362-e7e6-438e-9ae6-22a74d90d324
 
